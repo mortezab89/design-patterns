@@ -1,4 +1,4 @@
-package builderDesign;
+package creatinoal.builderDesign;
 
 public class User {
 
